@@ -1,7 +1,5 @@
 # Hi There!
 
-### My Stats in the last seven days
-
 <div align="center">
 	<br>
 	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/master/header.svg">
@@ -9,6 +7,8 @@
 	</a>
 	<br>
 </div>
+
+### My Stats in the last seven days
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=devlargs&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlargs&layout=compact&langs_count=8)
