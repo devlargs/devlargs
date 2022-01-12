@@ -10,7 +10,7 @@
 
 ### My Stats in the last seven days
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlargs&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlargs&layout=compact&langs_count=8&hide=java)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
