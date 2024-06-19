@@ -1,11 +1,3 @@
-# Hi There!
-
-<div align="center">
-	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/master/header.svg">
-		<img src="header.svg" width="800" height="400">
-	</a>
-	<br>
-</div>
+![Ralph's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlargs&show_icons=true&theme=transparent)
 
 
