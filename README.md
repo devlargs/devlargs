@@ -8,9 +8,4 @@
 	<br>
 </div>
 
-### My Stats in the last seven days
 
-[![committers.top badge](https://user-badge.committers.top/philippines_private/devlargs.svg)](https://user-badge.committers.top/philippines_private/devlargs)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
