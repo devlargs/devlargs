@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! Nice to see you.</h1>
 
-<p>Welcome </br> I'm Largs, Senior Frontend Developer from Philippines. A Passionate developer experienced in building clean and intuitive web applications with ReactJS, dedicated to constantly expanding skills and collaborating effectively with creative teams.</p>
+<p>Welcome </br> I'm Largs. I am a Software Engineer. I'm a passionate developer experienced in building clean and intuitive web applications with ReactJS and NestJS, dedicated to constantly expanding skills and collaborating effectively with creative teams.</p>
 <h3>My Go-to Tech Stack</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
